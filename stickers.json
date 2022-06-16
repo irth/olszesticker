@@ -1,0 +1,13 @@
+{
+    "base_url": "https://placekitten.com",
+    "stickers": [
+        {
+            "file": "/300/200",
+            "tags": ["cat", "cat1", "kot", "jeden"]
+        },
+        {
+            "file": "/200/300",
+            "tags": ["cat", "cat2", "kot", "dwa"]
+        }
+    ]
+}
